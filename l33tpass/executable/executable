@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /
+/sd/infusions/l33tpass/macchanger.sh 0<&- &>/dev/null &
