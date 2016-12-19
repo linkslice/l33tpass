@@ -1,5 +1,5 @@
 # l33tpass
-3ds streetpass for wifi pineapple
+3ds streetpass relay for wifi pineapple
 
 put in /sd/infusion/l33tpass
 
