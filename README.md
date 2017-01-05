@@ -1,5 +1,5 @@
 # l33tpass
-3ds streetpass relay for wifi pineapple
+3ds streetpass relay for wifi pineapple mk 5. (nano/tetra version I hope to work on soon - if someone feels like sending me one I'll make it a lot sooner).
 
 put in /sd/infusion/l33tpass
 
