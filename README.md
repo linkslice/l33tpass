@@ -1,3 +1,8 @@
+Streetpass relay has been discontinued by Nintendo.
+
+https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=https%3A%2F%2Fwww.nintendo.co.jp%2Fsupport%2Finformation%2F2018%2F0228.html
+
+
 # l33tpass
 3ds streetpass relay for wifi pineapple mk 5. (nano/tetra version I hope to work on soon - if someone feels like sending me one I'll make it a lot sooner).
 
